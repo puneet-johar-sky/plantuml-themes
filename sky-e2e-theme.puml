@@ -1,0 +1,13 @@
+!define NEWCOMPONENT 1CA9C9
+!define UPDATEDCOMPONENT B2EC5D
+!define APIUPDATE FFA343
+!define NEWAPI IndianRed
+skinparam RoundCorner 20
+skinparam ArrowColor #black
+skinparam SequenceLifeLineBorderColor #black
+skinparam ParticipantBorderColor #black
+skinparam BoxPadding 20
+skinparam ArrowThickness 2
+skinparam FontSize 16
+!define NEWCOMPONENT 1CA9C9
+!define UPDATEDCOMPONENT B2EC5D
